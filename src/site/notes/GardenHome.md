@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/garden-home/","tags":["gardenEntry"]}
 ---
 
-[[Social Aspects\|Social Aspects]]
-[[Technical Aspects\|Technical Aspects]]
+[[SocialAspects/Social Aspects\|Social Aspects]]
+[[TechnicalAspects/Technical Aspects\|Technical Aspects]]
