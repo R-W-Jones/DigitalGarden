@@ -3,6 +3,6 @@
 ---
 
 [[TechnicalAspects/AutonomousDriving/Autonomous Driving\|Autonomous Driving]]
-	[!INFO] See Also 
-	[[SocialAspects/PolicyRegulation/Policy and Regulation\|Policy and Regulation]]
-	
+>[!INFO] See Also 
+[[SocialAspects/PolicyRegulation/Policy and Regulation\|Policy and Regulation]]
+
