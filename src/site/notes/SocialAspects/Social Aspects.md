@@ -5,4 +5,6 @@
 [[GardenHome\|GardenHome]]
 [[SocialAspects/ConsumerPerception/Consumer Perception\|Consumer Perception]]
 [[SocialAspects/PolicyRegulation/Policy and Regulation\|Policy and Regulation]]
+[[SocialAspects/CulturalTrends/Cultural Trends\|Cultural Trends]]
+
 
