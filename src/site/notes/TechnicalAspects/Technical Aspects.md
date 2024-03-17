@@ -4,3 +4,5 @@
 
 [[GardenHome\|GardenHome]]
 [[TechnicalAspects/BatteryTechnology/Battery Technology\|Battery Technology]]
+[[TechnicalAspects/ElectricalMotors/Electrical Motors\|Electrical Motors]]
+
