@@ -3,3 +3,4 @@
 ---
 
 [[GardenHome\|GardenHome]]
+[[TechnicalAspects/BatteryTechnology/Battery Technology\|Battery Technology]]
