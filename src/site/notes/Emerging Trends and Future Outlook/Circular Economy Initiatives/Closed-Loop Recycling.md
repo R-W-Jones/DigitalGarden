@@ -15,11 +15,11 @@ By adopting closed-loop recycling practices, stakeholders in the ecosystem can m
 
 >[!success]- Benefits of Closed-Loop Recycling:
 >1. **Resource Conservation:**
-> - Closed-loop recycling conserves valuable resources by reintroducing recovered materials into the production cycle, reducing the need for virgin raw materials. 
+>- Closed-loop recycling conserves valuable resources by reintroducing recovered materials into the production cycle, reducing the need for virgin raw materials. 
 >2. **Environmental Protection:**
-> - By minimising waste and reducing reliance on resource-intensive mining operations, closed-loop recycling helps mitigate environmental degradation associated with battery production and disposal.  
+>- By minimising waste and reducing reliance on resource-intensive mining operations, closed-loop recycling helps mitigate environmental degradation associated with battery production and disposal.  
 >3. **Energy Efficiency:**
-> - Recycling materials from end-of-life electric vehicle batteries consumes less energy compared to extracting and processing raw materials, contributing to overall energy efficiency and carbon emission reduction. 
+>- Recycling materials from end-of-life electric vehicle batteries consumes less energy compared to extracting and processing raw materials, contributing to overall energy efficiency and carbon emission reduction. 
 
 >[!warning]- Challenges and Opportunities:
 >1. **Technology Development:**
