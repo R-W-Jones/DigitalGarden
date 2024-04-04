@@ -32,7 +32,4 @@ Material traceability is integral to promoting transparency, accountability, and
 
 ### Back to Circular Economy Initiatives
 
-For an overview of other circular economy initiatives shaping the electronic vehicle industry, explore the [Circular Economy Initiatives](insert link here) hub note.
-
-
-[[Emerging Trends and Future Outlook/Circular Economy Initiatives/Circular Economy Initiatives\|Circular Economy Initiatives]]
+For an overview of other circular economy initiatives shaping the electronic vehicle industry, explore the [[Emerging Trends and Future Outlook/Circular Economy Initiatives/Circular Economy Initiatives\|Circular Economy Initiatives]] hub.
