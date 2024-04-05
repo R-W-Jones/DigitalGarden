@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/emerging-trends-and-future-outlook/shared-mobility-solutions/ride-sharing/"}
 ---
 
-## Ride Sharing
-
 Ride-sharing services revolutionise urban transportation by providing convenient and efficient mobility options through digital platforms. Explore the key features and benefits of ride-sharing services within the electronic vehicle industry.
 
 ### Overview
