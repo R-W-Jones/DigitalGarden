@@ -9,4 +9,4 @@ With zero tailpipe emissions, electric vehicles have been growing in popularity 
 Not an invention of modern times, the electric car has a long and storied history, with the first vehicles being produced and used in the early 19th century. Travel back in time as we explore the history of the electric car, starting with the [[Timeline/1800s\|1800s]].
 
 
-[[GardenHome\|GardenHome]]
+[[Main Hub - EV Connectivity's\|Main Hub - EV Connectivity's]]
