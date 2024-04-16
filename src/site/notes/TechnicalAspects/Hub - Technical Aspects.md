@@ -6,7 +6,7 @@ Welcome to the Technical Aspects hub, where we explore the innovative technologi
 
 ## Navigation
 
-- [[GardenHome\|GardenHome]]: Return to the main hub.
+- [[Main Hub - EV Connectivity's\|Main Hub - EV Connectivity's]]: Return to the main hub.
 - [[TechnicalAspects/BatteryTechnology/Battery Technology\|Battery Technology]]: Explore the latest advancements in EV battery technology.
 - [[TechnicalAspects/ElectricalMotors/Electrical Motors\|Electrical Motors]]: Learn about the cutting-edge developments in EV motor technology.
 - [[TechnicalAspects/AutonomousDriving/Autonomous Driving\|Autonomous Driving]]: Discover the advancements and challenges in autonomous driving technology. 
