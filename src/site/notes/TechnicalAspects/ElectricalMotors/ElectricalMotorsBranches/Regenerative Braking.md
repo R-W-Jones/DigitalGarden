@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/technical-aspects/electrical-motors/electrical-motors-branches/regenerative-braking/"}
 ---
 
-Regenerative braking is a groundbreaking technology that enables electric vehicles to recover kinetic energy during deceleration and braking, converting it back into electrical energy to recharge the vehicle's battery. This innovative system offers numerous benefits, including improved energy efficiency, extended driving range, and enhanced brake system longevity. Let's explore the mechanics, advantages, and applications of regenerative braking in the context of electric mobility.
+Regenerative braking is a groundbreaking technology that enables electric vehicles to recover kinetic energy during deceleration and braking, converting it back into electrical energy to recharge the vehicle's battery. This innovative system offers numerous benefits, including improved energy efficiency, extended driving range, and enhanced brake system longevity. Here I'll explore the mechanics, advantages, and applications of regenerative braking in the context of electric mobility.
 
 ### How Regenerative Braking Works:
 
@@ -14,7 +14,7 @@ Regenerative braking is a groundbreaking technology that enables electric vehicl
 ### Benefits of Regenerative Braking:
 
 - **Improved Energy Efficiency:**
-    - Regenerative braking significantly enhances the energy efficiency of electric vehicles by harnessing otherwise wasted kinetic energy and returning it to the battery. This reclaimed energy supplements the vehicle's power supply, reducing the overall energy consumption and extending driving range.
+    - Regenerative braking significantly enhances the energy efficiency of electric vehicles by harnessing otherwise wasted kinetic energy and returning it to the battery. 
 - **Extended Driving Range:**
     - By recovering energy during braking, regenerative braking systems help maximise the vehicle's driving range on a single charge. This additional range can be especially valuable in urban driving conditions with frequent stop-and-go traffic patterns.
 
@@ -23,12 +23,13 @@ Regenerative braking is a groundbreaking technology that enables electric vehicl
 - **System Integration:**
     - Regenerative braking systems must be seamlessly integrated with the vehicle's overall propulsion system, including motor controllers, battery management systems, and regenerative braking controllers. This integration ensures efficient energy transfer and optimal performance.
 - **Brake Blending Strategies:**
-    - To maximise the effectiveness of regenerative braking, engineers employ sophisticated control algorithms to blend regenerative braking with traditional friction braking. These algorithms dynamically adjust braking force distribution based on driving conditions and driver inputs to optimize energy recovery and vehicle stability.
+    - To maximise the effectiveness of regenerative braking, engineers employ sophisticated control algorithms to blend regenerative braking with traditional friction braking. These algorithms dynamically adjust braking force distribution based on driving conditions and driver inputs to optimise energy recovery and vehicle stability. 
+    - Some manufacturers have been known to alter the extent of this through software updates, leaving a noticeably unfamiliar sensation to get accustomed with again or even provide the choice of regenerative braking strength through the infotainment system. 
 
 ### Real-World Applications:
 
 - **Urban Driving Conditions:**
-    - Regenerative braking systems excel in urban driving environments characterised by frequent acceleration and deceleration. Stop-and-go traffic and traffic light intersections provide ample opportunities for energy recovery, maximising the benefits of regenerative braking.
+    - Regenerative braking systems excel in urban driving environments characterised by frequent acceleration and deceleration. Stop/start traffic and traffic lights provide ample opportunities for energy recovery, maximising the benefits of regenerative braking.
 - **Hilly Terrain:**
     - Electric vehicles equipped with regenerative braking systems perform exceptionally well in hilly or mountainous terrain. The ability to capture energy during downhill descents helps offset the energy consumption required for uphill climbs, enhancing overall efficiency and range.
 
