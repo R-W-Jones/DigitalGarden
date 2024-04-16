@@ -24,7 +24,7 @@ Bidirectional charging facilitates the integration of renewable energy sources b
 
 ### Sociotechnical Implications
 
-The adoption of bidirectional charging technology has profound sociotechnical implications, influencing energy market dynamics, regulatory frameworks, infrastructure development, and consumer behavior. Collaboration among stakeholders across the energy and transportation sectors is essential to address technical, regulatory, and market barriers and unlock the full potential of bidirectional charging in V2G integration.
+The adoption of bidirectional charging technology has profound socio-technical implications, influencing energy market dynamics, regulatory frameworks, infrastructure development, and consumer behaviour. Collaboration among stakeholders across the energy and transportation sectors is essential to address technical, regulatory, and market barriers and unlock the full potential of bidirectional charging in V2G integration.
 
 ### Relevance and Future Outlook
 
