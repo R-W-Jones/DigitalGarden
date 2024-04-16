@@ -6,7 +6,7 @@ Welcome to the Social Aspects hub, where we explore the societal influences and 
 
 ## Navigation
 
-- [[GardenHome\|GardenHome]]: Return to the main hub.
+- [[Main Hub - EV Connectivity's\|Main Hub - EV Connectivity's]]: Return to the main hub.
 - [[SocialAspects/ConsumerPerception/Consumer Perception\|Consumer Perception]]: Explore the factors influencing consumer attitudes towards EVs.
 - [[SocialAspects/PolicyRegulation/Policy and Regulation\|Policy and Regulation]]: Learn about the regulatory landscape impacting the adoption of EVs.
 - [[SocialAspects/CulturalTrends/Cultural Trends\|Cultural Trends]]: Discover how cultural shifts are influencing the acceptance and integration of EVs.
