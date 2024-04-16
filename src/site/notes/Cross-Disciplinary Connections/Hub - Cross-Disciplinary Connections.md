@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cross-disciplinary-connections/hub-cross-disciplinary-connections/"}
 ---
 
-Welcome to the Cross-Disciplinary Connections hub, where we explore the interconnectedness between various disciplines in shaping the electronic vehicle (EV) industry. From economic and environmental impacts to the intricate feedback loops between technology and society, delve into the cross-disciplinary forces driving the future of transportation.
+Welcome to the Cross-Disciplinary Connections hub, where I explore the interconnectedness between various disciplines in shaping the electronic vehicle (EV) industry. From economic and environmental impacts to the intricate feedback loops between technology and society, delve into the cross-disciplinary forces driving the future of transportation.
 
 ## Navigation
 
@@ -21,5 +21,5 @@ As the EV industry continues to expand, recognising the cross-disciplinary natur
 
 ## Get Started
 
-Select a subtopic situated above to explore the cross-disciplinary connections shaping the electronic vehicle industry. Let's collaborate across disciplines to drive positive change and pave the way for a greener future!
+Select a subtopic situated above to explore the cross-disciplinary connections shaping the electronic vehicle industry. 
 
