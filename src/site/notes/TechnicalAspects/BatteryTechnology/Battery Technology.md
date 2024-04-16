@@ -6,7 +6,7 @@ Welcome to the Battery Technology hub, where we explore the latest advancements 
 
 ## Navigation
 
-- [[TechnicalAspects/Technical Aspects\|Technical Aspects]]: Return to the main hub.
+- [[TechnicalAspects/Hub - Technical Aspects\|Hub - Technical Aspects]]: Return to the main hub.
 - [[TechnicalAspects/BatteryTechnology/BatteryTechnologyBranches/Lithium-Ion vs. Solid-State\|Lithium-Ion vs. Solid-State]]: Explore the differences and potential of lithium-ion and solid-state batteries for electric vehicles.
 - [[TechnicalAspects/BatteryTechnology/BatteryTechnologyBranches/Charging Infrastructure\|Charging Infrastructure]]: Learn about the development of charging infrastructure and its impact on EV adoption and usability.
 - [[TechnicalAspects/BatteryTechnology/BatteryTechnologyBranches/Range vs. Performance\|Range vs. Performance]]: Examine the trade-offs between range and performance in EV battery technology and vehicle design.
