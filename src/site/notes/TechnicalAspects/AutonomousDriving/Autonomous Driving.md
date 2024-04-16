@@ -6,7 +6,7 @@ Welcome to the Autonomous Driving hub, where we explore the advancements and cha
 
 ## Navigation
 
-- [[TechnicalAspects/Technical Aspects\|Technical Aspects]]: Return to the main hub.
+- [[TechnicalAspects/Hub - Technical Aspects\|Hub - Technical Aspects]]: Return to the main hub.
 - [[TechnicalAspects/AutonomousDriving/AutonomousDrivingBranches/AI Integration\|AI Integration]]: Explore the integration of artificial intelligence in autonomous driving systems.
 - [[TechnicalAspects/AutonomousDriving/AutonomousDrivingBranches/Safety Regulations\|Safety Regulations]]: Learn about the regulatory frameworks governing autonomous vehicle safety.
 - [[TechnicalAspects/AutonomousDriving/AutonomousDrivingBranches/Ethical Considerations\|Ethical Considerations]]: Discover the ethical dilemmas and considerations surrounding autonomous driving technology.
