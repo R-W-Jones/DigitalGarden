@@ -16,6 +16,6 @@ Vehicle-to-Grid (V2G) integration represents a paradigm shift in the relationshi
 
 ### Back to Main Hub
 
-Return to [[Emerging Trends and Future Outlook/Hub - Emerging Trends and Future Outlook\|Hub - Emerging Trends and Future Outlook]] to explore other key themes and their sociotechnical implications. 
+Return to [[Emerging Trends and Future Outlook/Hub - Emerging Trends and Future Outlook\|Hub - Emerging Trends and Future Outlook]] so you can continue exploring other key themes and their socio-technical implications. 
 
 
