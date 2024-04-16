@@ -34,8 +34,7 @@ Safety regulations play a critical role in ensuring the safe development, testin
 
 Safety regulations are essential for safeguarding public safety and instilling confidence in autonomous driving technology. By establishing clear standards, certification processes, and oversight mechanisms, regulators can foster innovation while mitigating risks and ensuring the responsible development and deployment of autonomous vehicles in a rapidly evolving transportation landscape.
 
-This way back to [[TechnicalAspects/AutonomousDriving/Autonomous Driving\|Autonomous Driving]].
-
 >[!INFO] See Also 
-[[SocialAspects/PolicyRegulation/Policy and Regulation\|Policy and Regulation]]
+You might be interested in exploring [[SocialAspects/PolicyRegulation/Policy and Regulation\|Policy and Regulation]] further. 
 
+This way back to [[TechnicalAspects/AutonomousDriving/Autonomous Driving\|Autonomous Driving]].
