@@ -22,11 +22,11 @@ Furthermore, grid stability in V2G integration entails the provision of essentia
 
 ### Sociotechnical Implications
 
-The pursuit of grid stability in V2G integration necessitates collaborative efforts among diverse stakeholders, including electric utilities, grid operators, EV manufacturers, policymakers, and consumers. Sociotechnical considerations such as regulatory frameworks, market incentives, and consumer behaviour profoundly influence the implementation and effectiveness of grid stability measures.
+The pursuit of grid stability in V2G integration necessitates collaborative efforts among diverse stakeholders, including electric utilities, grid operators, EV manufacturers, policymakers, and consumers. Socio-technical considerations such as regulatory frameworks, market incentives, and consumer behaviour profoundly influence the implementation and effectiveness of grid stability measures.
 
 ### Relevance and Future Outlook
 
-Grid stability in V2G integration is of utmost relevance due to its pivotal role in enabling the seamless integration of EVs into the grid and facilitating the transition towards a sustainable energy future. By addressing the challenges associated with grid stability, V2G integration lays the foundation for building a resilient, adaptive, and environmentally conscious energy infrastructure.
+Grid stability in V2G integration is of upmost relevance due to its pivotal role in enabling the seamless integration of EVs into the grid and facilitating the transition towards a sustainable energy future. By addressing the challenges associated with grid stability, V2G integration lays the foundation for building a resilient, adaptive, and environmentally conscious energy infrastructure.
 
 #### Back to Vehicle-to-Grid Integration Hub
 
