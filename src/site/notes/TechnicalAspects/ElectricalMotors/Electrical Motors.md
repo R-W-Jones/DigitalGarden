@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/technical-aspects/electrical-motors/electrical-motors/"}
 ---
 
-Welcome to the Electrical Motors hub, where we delve into the intricacies of electric motor technology and its role in shaping the electronic vehicle (EV) industry. From optimising efficiency to implementing advanced control algorithms, explore the diverse applications and innovations driving the evolution of EV motors.
+Welcome to the Electrical Motors hub, where I delve into the intricacies of electric motor technology and its role in shaping the electronic vehicle (EV) industry. From optimising efficiency to implementing advanced control algorithms, explore the diverse applications and innovations driving the evolution of EV motors.
 
 ## Navigation
 
@@ -14,7 +14,7 @@ Welcome to the Electrical Motors hub, where we delve into the intricacies of ele
 
 ## Overview
 
-The Electrical Motors hub provides a comprehensive overview of electric motor technology and its applications within the EV industry. By examining key concepts and advancements in motor design, we can better understand the factors influencing EV performance, efficiency, and sustainability.
+The Electrical Motors hub provides a comprehensive overview of electric motor technology and its applications within the EV industry. By examining key concepts and advancements in motor design, I've been able to better understand and effectively visualise the factors influencing EV performance, efficiency, and sustainability.
 
 ## Why It Matters
 
@@ -22,5 +22,5 @@ Electric motors are the heart of electronic vehicles, playing a crucial role in 
 
 ## Get Started
 
-Select a subtopic above to explore the diverse applications and innovations in EV motor technology. Let's drive innovation and efficiency in electric mobility together!
+Select a subtopic above to explore the diverse applications and innovations in EV motor technology. 
 
