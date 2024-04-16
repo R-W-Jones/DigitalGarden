@@ -6,7 +6,7 @@ Welcome to the Cross-Disciplinary Connections hub, where we explore the intercon
 
 ## Navigation
 
-- [[GardenHome\|GardenHome]]: Return to the main hub.
+- [[Main Hub - EV Connectivity's\|Main Hub - EV Connectivity's]]: Return to the main hub.
 - [[Cross-Disciplinary Connections/Economic Impact/Economic Impact\|Economic Impact]]: Explore the economic implications of the EV industry.
 - [[Cross-Disciplinary Connections/Environmental Impact/Environmental Impact\|Environmental Impact]]: Learn about the environmental effects of EV adoption.
 - [[Cross-Disciplinary Connections/Techno-Social Feedback Loop/Techno-Social Feedback Loop\|Techno-Social Feedback Loop]]: Discover how technology and society influence each other in the context of EV development.
