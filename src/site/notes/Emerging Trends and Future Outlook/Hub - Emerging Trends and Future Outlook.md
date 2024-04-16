@@ -6,7 +6,7 @@ Welcome to the Emerging Trends and Future Outlook hub, where we explore the late
 
 ## Navigation
 
-- [[GardenHome\|GardenHome]]: Return to the main hub.
+- [[Main Hub - EV Connectivity's\|Main Hub - EV Connectivity's]]: Return to the main hub.
 - [[Emerging Trends and Future Outlook/Vehicle-to-Grid Integration/Vehicle-to-Grid Integration\|Vehicle-to-Grid Integration]]: Explore the integration of electric vehicles into the energy grid.
 - [[Emerging Trends and Future Outlook/Shared Mobility Solutions/Shared Mobility Solutions\|Shared Mobility Solutions]]: Discover innovative solutions for shared transportation services.
 - [[Emerging Trends and Future Outlook/Circular Economy Initiatives/Circular Economy Initiatives\|Circular Economy Initiatives]]: Learn about initiatives promoting sustainability and resource efficiency in the EV industry.
