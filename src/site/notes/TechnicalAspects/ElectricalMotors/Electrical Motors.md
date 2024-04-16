@@ -6,7 +6,7 @@ Welcome to the Electrical Motors hub, where we delve into the intricacies of ele
 
 ## Navigation
 
-- [[TechnicalAspects/Technical Aspects\|Technical Aspects]]: Return to the main hub.
+- [[TechnicalAspects/Hub - Technical Aspects\|Hub - Technical Aspects]]: Return to the main hub.
 - [[TechnicalAspects/ElectricalMotors/ElectricalMotorsBranches/Efficiency vs. Power\|Efficiency vs. Power]]: Explore the trade-offs between efficiency and power in EV motor design.
 - [[TechnicalAspects/ElectricalMotors/ElectricalMotorsBranches/Motor Placement\|Motor Placement]]: Learn about the significance of motor placement in EVs and its impact on vehicle dynamics and performance.
 - [[TechnicalAspects/ElectricalMotors/ElectricalMotorsBranches/Regenerative Braking\|Regenerative Braking]]: Discover how regenerative braking technology improves energy efficiency and extends EV range.
