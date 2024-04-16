@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/technical-aspects/autonomous-driving/autonomous-driving/"}
 ---
 
-Welcome to the Autonomous Driving hub, where we explore the advancements and challenges in autonomous driving technology and its impact on the electronic vehicle (EV) industry. From AI integration to safety regulation and ethical considerations, delve into the multifaceted aspects shaping the future of autonomous vehicles.
+Welcome to the Autonomous Driving hub, where I explore the advancements and challenges in autonomous driving technology and its impact on the electronic vehicle (EV) industry. From AI integration to safety regulation and ethical considerations, delve into the multifaceted aspects shaping the future of autonomous vehicles.
 
 ## Navigation
 
