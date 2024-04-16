@@ -16,6 +16,6 @@ This hub note serves as a gateway to deeper explore key circular economy initiat
 
 ### Dive deeper into each initiative to understand its significance, challenges, and opportunities for driving sustainable innovation in the electric vehicle industry. 
 
-For more insights into emerging trends and future outlook in the electric vehicle industry, explore the [[Emerging Trends and Future Outlook/Emerging Trends and Future Outlook\|Emerging Trends and Future Outlook]] note. 
+For more insights into emerging trends and future outlook in the electric vehicle industry, explore the [[Emerging Trends and Future Outlook/Hub - Emerging Trends and Future Outlook\|Hub - Emerging Trends and Future Outlook]] note. 
 
 
