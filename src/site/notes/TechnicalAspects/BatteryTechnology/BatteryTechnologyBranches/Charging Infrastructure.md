@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/technical-aspects/battery-technology/battery-technology-branches/charging-infrastructure/"}
 ---
 
-Charging infrastructure plays a vital role in supporting the widespread adoption and usability of electric vehicles (EVs). A robust and accessible charging network is essential to alleviate range anxiety, enhance convenience, and accelerate the transition to electric mobility. Let's explore the key components, challenges, and advancements in charging infrastructure for electric vehicles.
+Charging infrastructure plays a vital role in supporting the widespread adoption and usability of electric vehicles (EVs). A robust and accessible charging network is essential to alleviate range anxiety, enhance convenience, and accelerate the transition to electric mobility. I'll be exploring the key components, challenges, and advancements in charging infrastructure for electric vehicles.
 
 ### Types of Charging Stations:
 
@@ -32,7 +32,7 @@ Charging infrastructure plays a vital role in supporting the widespread adoption
 - **Ultra-Fast Charging Technologies:**
     - Advances in ultra-fast charging technologies aim to reduce charging times even further, enabling EVs to recharge in a matter of minutes rather than hours. Technologies such as solid-state batteries, wireless charging, and high-power charging networks are poised to revolutionise the EV charging landscape.
 - **Vehicle-to-Grid Integration:**
-    - Vehicle-to-grid (V2G) integration allows electric vehicles to serve as mobile energy storage units, enabling bidirectional energy flow between vehicles and the grid. V2G technology offers opportunities for grid stabilization, renewable energy integration, and demand-side management, enhancing the overall efficiency and resilience of the electricity grid.
+    - Vehicle-to-grid (V2G) integration allows electric vehicles to serve as mobile energy storage units, enabling bidirectional energy flow between vehicles and the grid. V2G technology offers opportunities for grid stabilisation, renewable energy integration, and demand-side management, enhancing the overall efficiency and resilience of the electricity grid.
 
 ### Conclusion:
 
