@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/social-aspects/hub-social-aspects/"}
 ---
 
-Welcome to the Social Aspects hub, where we explore the societal influences and implications shaping the adoption and perception of electronic vehicles (EVs). From consumer attitudes to regulatory frameworks and cultural trends, delve into the social dynamics driving the future of transportation.
+Welcome to the Social Aspects hub, where I'll explore the societal influences and implications shaping the adoption and perception of electronic vehicles (EVs). From consumer attitudes to regulatory frameworks and cultural trends, delve into the social dynamics driving the future of transportation.
 
 ## Navigation
 
