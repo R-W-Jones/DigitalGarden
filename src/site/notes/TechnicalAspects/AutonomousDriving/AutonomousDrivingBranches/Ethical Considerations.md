@@ -10,7 +10,6 @@ The adoption of autonomous driving technology raises complex ethical dilemmas an
     - Ensuring the safety of passengers, pedestrians, and other road users is paramount in autonomous driving systems. Ethical considerations dictate that autonomous vehicles prioritise human safety above all else, employing robust safety measures, risk mitigation strategies, and fail-safe mechanisms to minimise the likelihood of accidents or injuries.
 - **Risk Assessment and Allocation:**
     - Autonomous driving systems must assess and manage risks associated with driving decisions, including trade-offs between safety, efficiency, and convenience. Ethical frameworks guide risk allocation decisions, balancing the need to protect human life with considerations of system performance, user experience, and societal welfare.
-
 ### Accountability and Liability:
 
 - **Legal and Regulatory Frameworks:**
@@ -31,6 +30,8 @@ The adoption of autonomous driving technology raises complex ethical dilemmas an
     - Ethical frameworks emphasise the importance of addressing societal impacts and equity considerations in the deployment of autonomous driving technology. Strategies to mitigate disparities in access, affordability, and adoption of autonomous vehicles promote social justice, equity, and inclusivity in transportation systems.
 - **Urban Planning and Accessibility:**
     - Ethical considerations extend to urban planning, infrastructure development, and transportation policies aimed at ensuring equitable access to autonomous mobility services for all members of society, including marginalised and underserved communities. Accessible design features, inclusive service models, and community engagement initiatives foster equitable and inclusive transportation ecosystems.
+
+## Summary:
 
 Addressing ethical considerations in autonomous driving technology is essential to foster public trust, promote safety, and uphold societal values in the transition to automated mobility. By incorporating ethical principles into the design, development, and deployment of autonomous vehicles, stakeholders can navigate complex ethical dilemmas, uphold human rights, and shape a future of transportation that is safe, equitable, and sustainable.
 
