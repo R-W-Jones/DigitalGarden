@@ -15,5 +15,5 @@ Explore the dynamic world of shared mobility solutions within the electronic veh
 
 ## Back to Emerging Trends and Future Outlook
 
-For an overview of other emerging trends and future outlooks shaping the electric vehicle industry, return to the [[Emerging Trends and Future Outlook/Emerging Trends and Future Outlook\|Emerging Trends and Future Outlook]] section. 
+For an overview of other emerging trends and future outlooks shaping the electric vehicle industry, return to the [[Emerging Trends and Future Outlook/Hub - Emerging Trends and Future Outlook\|Hub - Emerging Trends and Future Outlook]] section. 
 
