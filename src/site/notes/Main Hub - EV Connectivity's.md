@@ -3,7 +3,7 @@
 ---
 
 ### Tracing the socio-technical interplay of the Electric Vehicle industry. 
-Intro.
+
 
 [[SocialAspects/Hub - Social Aspects\|Hub - Social Aspects]]
 [[TechnicalAspects/Hub - Technical Aspects\|Hub - Technical Aspects]]
