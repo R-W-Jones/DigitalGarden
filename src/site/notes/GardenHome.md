@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/garden-home/","tags":["gardenEntry"]}
 ---
 
-[[SocialAspects/Social Aspects\|Social Aspects]]
-[[TechnicalAspects/Technical Aspects\|Technical Aspects]]
-[[Cross-Disciplinary Connections/Cross-Disciplinary Connections\|Cross-Disciplinary Connections]]
-[[Emerging Trends and Future Outlook/Emerging Trends and Future Outlook\|Emerging Trends and Future Outlook]]
+[[SocialAspects/Hub - Social Aspects\|Hub - Social Aspects]]
+[[TechnicalAspects/Hub - Technical Aspects\|Hub - Technical Aspects]]
+[[Cross-Disciplinary Connections/Hub - Cross-Disciplinary Connections\|Hub - Cross-Disciplinary Connections]]
+[[Emerging Trends and Future Outlook/Hub - Emerging Trends and Future Outlook\|Hub - Emerging Trends and Future Outlook]]
+[[Timeline/Hub - The Evolution of EVs\|Hub - The Evolution of EVs]]
 
