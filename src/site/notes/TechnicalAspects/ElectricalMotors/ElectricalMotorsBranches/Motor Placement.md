@@ -13,6 +13,8 @@
 
 - **In-Wheel Motors:**
     - In-wheel motors are integrated directly into the vehicle's wheel hubs, eliminating the need for traditional drivetrain components such as axles and transmissions. This compact and decentralised motor placement offers advantages in terms of packaging efficiency and design flexibility.
+    - These motors are most often found on electric bicycles. although initially popular in the earlier days, they haven't been as successful in recent production cars due to the affect on weight distribution and the increase of unsprung weight. 
+    ![Pasted image 20240416160458.png](/img/user/Pasted%20image%2020240416160458.png)
 - **Single-Motor Rear-Wheel Drive:**
     - Rear-wheel drive configurations with a single motor located at the rear axle are common in electric vehicles. This layout simplifies drivetrain design and provides efficient power delivery to the rear wheels, resulting in responsive acceleration and dynamic handling.
 - **Dual-Motor All-Wheel Drive:**
@@ -21,7 +23,7 @@
 ### Integration Challenges:
 
 - **Packaging Constraints:**
-    - Limited space within the vehicle chassis presents challenges for integrating electric motors while optimising passenger and cargo space. Engineers must carefully consider packaging constraints and design solutions that balance performance with practicality.
+    - Limited space within the vehicle chassis presents challenges for integrating electric motors while optimising passenger and cargo space. Engineers must carefully consider these constraints and design solutions that balance performance with practicality.
 - **Thermal Management:**
     - Efficient thermal management is essential for maintaining optimal operating temperatures of electric motors. Placement decisions must account for heat dissipation requirements and airflow considerations to prevent overheating and ensure long-term reliability.
 
@@ -34,6 +36,6 @@
 
 ### Conclusion:
 
-Motor placement is a critical aspect of electric vehicle design, influencing vehicle dynamics, efficiency, and performance. By carefully considering factors such as weight distribution, packaging constraints, and integration challenges, engineers can optimize motor placement to deliver an optimal driving experience in electric vehicles.
+Motor placement is a critical aspect of electric vehicle design, influencing vehicle dynamics, efficiency, and performance. By carefully considering factors such as weight distribution, packaging constraints, and integration challenges, engineers can optimise motor placement to deliver an optimal driving experience in electric vehicles.
 
 Return to [[TechnicalAspects/ElectricalMotors/Electrical Motors\|Electrical Motors]] here. 
