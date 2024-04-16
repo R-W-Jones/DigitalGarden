@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/technical-aspects/electrical-motors/electrical-motors-branches/motor-control-algorithms/"}
 ---
 
-Motor control algorithms play a pivotal role in optimising the performance, efficiency, and safety of electric motors in electronic vehicles. These algorithms govern the operation of motor controllers, dictating how electrical power is converted into mechanical motion. Let's delve into the world of motor control algorithms and explore their significance in the realm of electric mobility.
+Motor control algorithms play a pivotal role in optimising the performance, efficiency, and safety of electric motors in electronic vehicles. These algorithms govern the operation of motor controllers, dictating how electrical power is converted into mechanical motion. I'll be delving into the world of motor control algorithms and exploring their significance in the realm of electric mobility.
 
 ### Understanding Motor Control:
 
@@ -16,14 +16,14 @@ Motor control algorithms play a pivotal role in optimising the performance, effi
 - **Field-Oriented Control (FOC):**
     - FOC algorithms enable precise control of motor torque and flux by aligning the motor's magnetic field with the reference frame. This sophisticated control technique improves motor efficiency and responsiveness, particularly at low speeds and under varying load conditions.
 - **Model Predictive Control (MPC):**
-    - MPC algorithms leverage predictive models of motor behaviour to optimise control inputs over a finite time horizon. By anticipating future motor states and system constraints, MPC controllers can achieve optimal performance and energy efficiency in dynamic driving scenarios.
+    - MPC algorithms leverage predictive models of motor behaviour to optimise control inputs. By anticipating future motor states and system constraints, MPC controllers can achieve optimal performance and energy efficiency in dynamic driving scenarios.
 
 ### Implementation Challenges:
 
 - **Computational Complexity:**
     - Implementing advanced motor control algorithms may require significant computational resources, posing challenges for embedded systems with limited processing power. Efficient algorithm design and hardware optimisation are essential to meet real-time control requirements.
 - **Sensor Integration:**
-    - Motor control algorithms often rely on sensor feedback to monitor motor performance and adjust control parameters. Integrating sensors such as encoders, hall-effect sensors, and current sensors requires careful calibration and signal processing to ensure accurate and reliable operation.
+    - Motor control algorithms often rely on sensor feedback to monitor motor performance and adjust control parameters. Integrating sensors such as encoders, hall effect sensors, and current sensors requires careful calibration and signal processing to ensure accurate and reliable operation.
 
 ### Future Directions:
 
