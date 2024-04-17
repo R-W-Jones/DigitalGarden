@@ -8,7 +8,7 @@ The adoption of electric vehicles (EVs) has far-reaching implications for econom
 
 ### Navigation:
 
-- [[Main Hub - EV Connectivity's\|Main Hub - EV Connectivity's]]: Return to the main hub.
+- [[Cross-Disciplinary Connections/Hub - Cross-Disciplinary Connections\|Hub - Cross-Disciplinary Connections]]: Return to the cross disciplinary hub.
 - [[Cross-Disciplinary Connections/Economic Impact/Job Creation vs. Job Loss\|Job Creation vs. Job Loss]]: Explore the effects of electric vehicles on employment.
 - [[Cross-Disciplinary Connections/Economic Impact/Market Growth vs. Market Saturation\|Market Growth vs. Market Saturation]]: Analyse the dynamics of EV market expansion and saturation.
 - [[Cross-Disciplinary Connections/Economic Impact/Supply Chain Dynamics\|Supply Chain Dynamics]]: Investigate the supply chain implications of electric vehicle production and distribution.
