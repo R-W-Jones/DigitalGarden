@@ -13,7 +13,7 @@ Welcome to the Social Aspects hub, where I'll explore the societal influences an
 
 ## Overview
 
-The Social Aspects hub provides insights into the multifaceted factors shaping the acceptance, adoption, and integration of electronic vehicles within society. By understanding the social dynamics at play, we can better anticipate challenges and opportunities in the transition to a sustainable transportation future.
+The Social Aspects hub provides insights into the multifaceted factors shaping the acceptance, adoption, and integration of electronic vehicles within society. Understanding the social dynamics at play, I can better anticipate challenges and opportunities in the transition to a sustainable transportation future.
 
 ## Why It Matters
 
