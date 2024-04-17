@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/technical-aspects/battery-technology/battery-technology/"}
 ---
 
-Welcome to the Battery Technology hub, where we explore the latest advancements and challenges in electric vehicle (EV) battery technology. From the ongoing debate between lithium-ion and solid-state batteries to the development of charging infrastructure and considerations of range versus performance, delve into the critical aspects shaping the future of EV batteries.
+Welcome to the Battery Technology hub, where I explore the latest advancements and challenges in electric vehicle (EV) battery technology. From the ongoing debate between lithium-ion and solid-state batteries to the development of charging infrastructure and considerations of range versus performance, delve into the critical aspects shaping the future of EV batteries.
 
 ## Navigation
 
@@ -14,7 +14,7 @@ Welcome to the Battery Technology hub, where we explore the latest advancements 
 
 ## Overview
 
-The Battery Technology hub provides a comprehensive overview of the latest advancements, challenges, and considerations in EV battery technology. By understanding the nuances of battery chemistry, charging infrastructure, and sustainability, we can drive innovation and adoption of electric mobility.
+The Battery Technology hub provides a comprehensive overview of the latest advancements, challenges, and considerations in EV battery technology. By understanding the nuances of battery chemistry, charging infrastructure, and sustainability, we can drive innovation and accelerate adoption of electric mobility.
 
 ## Why It Matters
 
