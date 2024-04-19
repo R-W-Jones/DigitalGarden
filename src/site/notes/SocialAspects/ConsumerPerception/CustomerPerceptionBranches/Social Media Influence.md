@@ -15,4 +15,5 @@ Social media platforms have become influential channels for shaping consumer att
 
 Social media exerts a powerful influence on transportation choices by shaping public perceptions and promoting sustainable mobility options. By harnessing the reach and engagement of social media platforms, stakeholders can drive awareness and adoption of cleaner, more efficient transportation solutions.
 
+
 Back for more of [[SocialAspects/ConsumerPerception/Consumer Perception\|Consumer Perception]]. 
