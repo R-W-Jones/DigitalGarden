@@ -19,6 +19,7 @@ Charging infrastructure plays a vital role in supporting the widespread adoption
     - Public charging networks are expanding rapidly to accommodate the growing number of electric vehicles on the road. Charging infrastructure providers are deploying Level 2 and DC fast charging stations at strategic locations such as shopping centres, parking lots, and highway rest areas to facilitate convenient charging access for EV owners.
 - **Destination Charging:**
     - Destination charging stations are installed at hotels, restaurants, and tourist destinations to provide EV owners with convenient charging options while they engage in leisure or business activities. Destination chargers typically offer Level 2 charging speeds, allowing for overnight or extended charging sessions.
+    ![IMG_6172.jpeg](/img/user/IMG_6172.jpeg)
 
 ### Challenges and Solutions:
 
