@@ -6,21 +6,34 @@
 }
 
 body {
-  color: #333; /* Main text color */
-  background-color: #f9f9f9; /* Background color */
+  color: #333; /* Main text colour */
+  background-color: #f9f9f9; /* Background colour */
+  /* Styling for headings */
+h1, h2, h3 {
+  color: var(--primary-green); /* Default heading colour */
 }
 
-/* Example usage of color variables */
-.button {
-  background-color: var(--primary-blue);
-  color: #fff;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
+/* Additional styling for specific headings */
+h1 {
+  font-size: 32px; /* Larger font size for h1 */
 }
 
-.button:hover {
-  background-color: var(--secondary-blue);
+h2 {
+  font-size: 24px; /* Slightly smaller font size for h2 */
 }
 
+h3 {
+  font-size: 20px; /* Smallest font size for h3 */
+}
+}
+
+/* Styling for links */
+a {
+  color: var(--primary-blue); /* Default link colour */
+  text-decoration: none; /* Remove underline */
+  transition: color 0.3s ease; /* Smooth colour transition on hover */
+}
+
+a:hover {
+  color: var(--secondary-blue); /* Colour change on hover */
+}
