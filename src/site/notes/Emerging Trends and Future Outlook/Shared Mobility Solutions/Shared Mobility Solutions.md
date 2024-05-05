@@ -10,7 +10,7 @@ Here I explore the dynamic world of shared mobility solutions within the electro
 	Learn about ride-sharing services, where users can access transportation on-demand through digital platforms, reducing the need for personal vehicle ownership.
 - **[[Emerging Trends and Future Outlook/Shared Mobility Solutions/Car Subscription Services\|Car Subscription Services]]:**
 	Explore all-inclusive car subscription services, providing access to a fleet of vehicles for a monthly fee, without the long-term commitment of ownership.
-- **[[Emerging Trends and Future Outlook/Shared Mobility Solutions/Shared Mobility Solutions\|Shared Mobility Solutions]]:**
+- **[[Emerging Trends and Future Outlook/Shared Mobility Solutions/Peer-to-Peer Sharing Platforms\|Peer-to-Peer Sharing Platforms]]:**
 	Dive into various shared mobility services like ride-hailing, car-sharing, bike-sharing, and micro-mobility offerings such as electric scooters and bicycles, promoting resource sharing and sustainable travel behaviours.
 
 ## Back to Emerging Trends and Future Outlook
