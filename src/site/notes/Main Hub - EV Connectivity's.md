@@ -35,3 +35,7 @@ This project serves as a platform for knowledge sharing and exploration. My aim 
 
 Don't forget to explore how we got to where we are today through our short [[Timeline/Hub - The Evolution of EVs\|Hub - The Evolution of EVs]] narrative. 
 
+## Gallery 
+
+Take a look at the multimedia gallery in [[Images\|Images]], containing an array of photos which display how connectivity is all around us in many ways. 
+
