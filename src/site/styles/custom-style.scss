@@ -4,9 +4,15 @@
   --primary-green: #2ecc71;
   --secondary-green: #27ae60;
 }
+
+/* import google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
 /* blue / green clour scheme synonymous with electricity and sustainability. */
 body {
   color: #333; /* Main text colour */
+  font-family: 'Montserrat', sans-serif; /* apply Montserrat to all text */
+  font-size: 16px;
   /* background-color: var(--primary-blue); /* Background colour */ */
   /* Styling for headings */
 h1, h2, h3 {
