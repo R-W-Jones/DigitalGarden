@@ -1,3 +1,8 @@
+# EV Conectivity's 
+Exploring the interplay between social and technological factors of the EV industry. 
+
+Can be found hosted online at: https://digital-garden-xi-six.vercel.app/
+
 # Digital Obsidian Garden
 This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
 See the README in the plugin repo for information on how to set it up.
