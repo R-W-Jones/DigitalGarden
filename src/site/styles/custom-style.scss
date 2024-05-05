@@ -7,7 +7,7 @@
 
 body {
   color: #333; /* Main text colour */
-  background-color: #f9f9f9; /* Background colour */
+  background-color: var(--primary-blue); /* Background colour */
   /* Styling for headings */
 h1, h2, h3 {
   color: var(--primary-green); /* Default heading colour */
