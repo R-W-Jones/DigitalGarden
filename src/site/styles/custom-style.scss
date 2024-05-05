@@ -1,4 +1,26 @@
+:root {
+  --primary-blue: #3498db;
+  --secondary-blue: #2980b9;
+  --primary-green: #2ecc71;
+  --secondary-green: #27ae60;
+}
+
 body {
-   background-image: linear-gradient(blue, green);
+  color: #333; /* Main text color */
+  background-color: #f9f9f9; /* Background color */
+}
+
+/* Example usage of color variables */
+.button {
+  background-color: var(--primary-blue);
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: var(--secondary-blue);
 }
 
