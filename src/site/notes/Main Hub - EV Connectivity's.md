@@ -20,6 +20,8 @@ This project serves as a platform for knowledge sharing and exploration. My aim 
     - To navigate through the digital garden, simply click on the links provided within each page. You can always return back to the page you were on through the backlinks at the bottom of each page. 
 - **Mind Map:**
 	- You can click on the map of connected nodes to expand it and then select something of interest from there. 
+- **Search:**
+	- A search bar is conveniently provided near the top right of the page. 
 ## Main Topics:
 
 - **[[TechnicalAspects/Hub - Technical Aspects\|Hub - Technical Aspects]]:**
