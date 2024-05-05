@@ -5,13 +5,10 @@
   --secondary-green: #27ae60;
 }
 
-/* import google fonts */
-@import :url('https://fonts.googleapis.com/css?family=Audiowide');
-
 /* blue / green clour scheme synonymous with electricity and sustainability. */
 body {
   color: #333; /* Main text colour */
-  font-family: "Audiowide", sans-serif; /* apply Audiowide to all text */
+  font-family: Arial, Helvetica, sans-serif; /* apply Audiowide to all text */
   font-size: 16px;
   /* background-color: var(--primary-blue); /* Background colour */ */
   /* Styling for headings */
